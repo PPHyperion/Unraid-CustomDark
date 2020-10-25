@@ -1,0 +1,38 @@
+.usage-disk span:first-child,
+#nav-block #nav-item.active:after {
+    background: linear-gradient(90deg, #e22828 0, #ff8c2f) 0 0 no-repeat, linear-gradient(90deg, #e22828 0, #ff8c2f) 0 100% no-repeat, linear-gradient(0deg, #e22828 0, #e22828) 0 100% no-repeat, linear-gradient(0deg, #ff8c2f 0, #ff8c2f) 100% 100% no-repeat
+}
+
+#header,
+#header .block {
+    background-color: #1c1b1b;
+}
+
+#header .block,
+#header .text-right a {
+    color: #d7d3ce;
+}
+
+#nav-block,
+#footer {
+    background-color: #2e2e30;
+}
+
+#nav-block #nav-item a {
+    color: #d7d3ce;
+}
+
+a,
+.blue-text,
+.switch-button-label.on {
+    color: #dd4f4f;
+}
+
+.green-text,
+.green {
+    color: #a3ed39;
+}
+
+.switch-button-background.checked {
+    background-color: #dd4f4f;
+}
